@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/ltcguthrie/ltcguthrie.github.io.git
-	branch = master
